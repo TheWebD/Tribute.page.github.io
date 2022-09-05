@@ -1,0 +1,65 @@
+
+#main{
+    position: relative;
+    bottom: 0;
+    margin: 20px 0px;
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    height: 100%;
+    line-height: 1.50;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+#title{
+    display: block;
+    margin: auto auto;
+    font-size: 2.8rem;
+    font-weight: 800;
+    padding: 35px 0px 0px 0px;
+}
+#title-p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-div{
+    background-color: rgb(255, 255, 255);;
+    margin: 0px 15px 0px;
+    position: relative;
+    padding: 10px 10px;
+}
+#img{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption{
+    text-align: center;
+}
+#tribute-info{
+    text-align: center;
+    padding: 30px 0px;
+}
+#history-list{
+    display: block;
+    margin: auto auto;
+}
+#lists{
+    margin: 10px 10px;
+    text-align: justify;
+}
+#quote{
+    padding: 20px 10px;
+    display: block;
+    margin: auto auto;
+    font-style: italic;  
+}
+#tribute-links{
+    display: block;
+    margin: auto auto;
+    padding: 20px 0px;
+}
