@@ -15,7 +15,7 @@ This project is required to be created to obtain certificate from FreeCodeCamp.
 
 **Contributing**
 
-Anyone are allowed to clone, use, modified it.
+Anyone are allowed to clone, use, and modified it.
 
 **License**
 
